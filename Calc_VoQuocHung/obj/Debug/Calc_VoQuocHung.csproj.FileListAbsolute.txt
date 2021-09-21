@@ -1,0 +1,10 @@
+D:\C#\Calc_VoQuocHung\Calc_VoQuocHung\bin\Debug\Calc_VoQuocHung.exe.config
+D:\C#\Calc_VoQuocHung\Calc_VoQuocHung\bin\Debug\Calc_VoQuocHung.exe
+D:\C#\Calc_VoQuocHung\Calc_VoQuocHung\bin\Debug\Calc_VoQuocHung.pdb
+D:\C#\Calc_VoQuocHung\Calc_VoQuocHung\obj\Debug\Calc_VoQuocHung.csproj.AssemblyReference.cache
+D:\C#\Calc_VoQuocHung\Calc_VoQuocHung\obj\Debug\Calc_VoQuocHung.frmQuocHung.resources
+D:\C#\Calc_VoQuocHung\Calc_VoQuocHung\obj\Debug\Calc_VoQuocHung.Properties.Resources.resources
+D:\C#\Calc_VoQuocHung\Calc_VoQuocHung\obj\Debug\Calc_VoQuocHung.csproj.GenerateResource.cache
+D:\C#\Calc_VoQuocHung\Calc_VoQuocHung\obj\Debug\Calc_VoQuocHung.csproj.CoreCompileInputs.cache
+D:\C#\Calc_VoQuocHung\Calc_VoQuocHung\obj\Debug\Calc_VoQuocHung.exe
+D:\C#\Calc_VoQuocHung\Calc_VoQuocHung\obj\Debug\Calc_VoQuocHung.pdb
